@@ -9,3 +9,11 @@ Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiaWF0IjoxN
         "cardId": "1600101914175"
     }
 }
+
+{
+    "data":{
+        "name": "Thitika Raluek",
+        "mobile": "0617973301",
+        "cardId": "1189900342353"
+    }
+}
